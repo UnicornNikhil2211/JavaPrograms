@@ -4,5 +4,9 @@ public class SampleForJenkin {
 
         System.out.println("Hi, This is Sample Java Program stored on Git Repository with Jenkin Pipeline.");
 
+        System.out.println("GitHub has been configured successfully.");
+
+        System.out.println("Thank you Gits!!");
+
     }
 }
